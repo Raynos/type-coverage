@@ -60,11 +60,8 @@ typings/
 
 # Source
 .vscode
-dist
-**/*.js
 **/*.css
 !*.config.js
-!**/*-*.js
 !**/*.index.bundle.js
 !**/*-*.css
 service-worker.js
